@@ -7,8 +7,4 @@ This is a Self Organizing Map used to analyze credit card fraud. The AI is train
 This project uses Python 3. You will need  Numpy, Matplotlib, and so on. I used Spyder on Anaconda to code this.
 
 
-## Acknowledgments
-
-A-Z AI for the Udemy course
-
 
